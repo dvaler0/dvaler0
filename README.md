@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align='center'>
   <samp>
     <a href='https://dvalero.com/'>website</a> •
